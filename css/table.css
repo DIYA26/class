@@ -1,0 +1,21 @@
+th, td {
+    padding: 15px;
+    text-align: left;
+    background-color: rgb(238, 231, 230);
+    color: black;
+  }
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+aside {
+    width:auto;
+    height: 100%;
+    padding-left: 15px;
+    margin-left: 15px;
+    padding: 30px;
+    margin: 30px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  }
